@@ -1,32 +1,57 @@
-<div align="center">
-
-<!-- 🌸 Kawaii Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,50:fecfef,100:f6d365&height=220&section=header&text=✨%20Ohayou!%20I'm%20Pollock%20✨&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=lobezno16%20•%20Coding%20Magical%20Girl%20in%20Training%20🌙&descAlignY=60&descSize=16&animation=twinkling" width="100%"/>
-
-</div>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ＳＹＳＴＥＭ  ＢＯＯＴ  ＳＥＱＵＥＮＣＥ                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- 💫 Typing Animation with Anime Vibes -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=FF69B4&center=true&vCenter=true&width=650&lines=ML+%7C+AI+%7C+GenAI+Enthusiast+🤖;Web3+%7C+Blockchain+Explorer+⛓️;Cybersecurity+Guardian+🛡️;Quantum+Computing+Dreamer+⚛️;Backend+%26+Systems+Wizard+🖥️;Forever+Learning+%7C+Forever+Evolving+📚)](https://git.io/typing-svg)
+<!-- Anime Hacker Terminal Header -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-44a8-9198-2d02e6c1b9eb.gif" width="100%" />
+
+<pre>
+╔══════════════════════════════════════════════════════════════════╗
+║  <span style="color:#ff006e">SYSTEM://POLLOCK.exe</span>  <span style="color:#00f5ff">[ONLINE]</span>  <span style="color:#ff006e">v2.0.26</span>                        ║
+║  <span style="color:#8338ec">LOADING_NEURAL_INTERFACE...</span>  <span style="color:#00f5ff">[████████░░] 80%</span>               ║
+╚══════════════════════════════════════════════════════════════════╝
+</pre>
+
+<!-- Cinematic Banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:ff006e,50:8338ec,100:00f5ff&text=POLLOCK&fontColor=ffffff&fontSize=80&stroke=000000&strokeWidth=2&desc=lobezno16%20|%20Digital%20Alchemist&descSize=20&descAlignY=75" width="100%"/>
 
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-44a8-9198-2d02e6c1b9eb.gif" width="400px" alt="kawaii coding gif"/>
-</p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ＣＨＡＲＡＣＴＥＲ  ＳＴＡＴＵＳ  ＳＣＲＥＥＮ                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
----
+<div align="center">
 
-<!-- 🎀 About Me Section -->
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-265e-4244-92f5-8ed90970b3b6.gif" width="40">&nbsp; ***About Me ~ 私について*** 🌸
+### `> INITIALIZING CHARACTER PROFILE...`
 
-<img align="right" width="250px" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f71-80ab-d7c4c0a37932.gif"/>
+<!-- Anime Coding Girl -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f71-80ab-d7c4c0a37932.gif" width="350" align="right" style="border-radius: 15px; border: 2px solid #ff006e;"/>
 
-```ascii
-    ∧＿∧
-   ( ･ω･)  ~ coding...
-   /　　＼
-  /　　 　＼
- /　　　　 ＼
-/　|　　　 | ＼
+</div>
+
+```yaml
+PLAYER: Pollock
+CLASS: Digital Alchemist [Lv. 26]
+GUILD: lobezno16
+ALIGNMENT: Chaotic Creative
+
+CORE_STATS:
+  🧠 Intelligence:     ████████░░  80%  [ML/AI/GenAI Mastery]
+  ⛓️ Decentralization: ██████░░░░  60%  [Web3/Blockchain]
+  🛡️ Defense:          ████░░░░░░  40%  [Cybersecurity]
+  ⚛️ Quantum:          ███░░░░░░░  30%  [Quantum Computing]
+  🖥️ Systems:          ███████░░░  70%  [Backend Architecture]
+
+BUFFS_ACTIVE:
+  • ☕ Caffeine Rush (+20% Focus)
+  • 🎵 Lo-Fi Beats (+15% Creativity)
+  • 🔥 "Noob on the Grind" (Infinite XP Multiplier)
+
+DEBUFFS:
+  • 😴 Sleep Deprivation (-10% CON)
+  • 🐛 Legacy Code Trauma (Random panic attacks)
+
+STATUS: "Learning → Building → Breaking → Transcending"
